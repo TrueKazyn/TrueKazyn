@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/J5qQHCpkBiMXsoxDdA/giphy.gif?cid=6c09b952au97gnj9v38kna9fq620mok5n09q88q4q23kinn6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+  <img height="150" src="https://media4.giphy.com/media/Yr36sebkHPVC65WLHV/giphy.gif?cid=6c09b952pzwo09ple0zuvvmv9g9glxxpcyn6chus811zj10j&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
 </div>
 
 ###
@@ -37,11 +37,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🛠️Language and tools</h3>
 
 ###
 
@@ -62,6 +58,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
